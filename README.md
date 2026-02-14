@@ -6,31 +6,20 @@
                                     /_____ /__/ /_/______ /_______/______/
 
 				const profile = {
- 									 level: "Script Skibidi",
+ 									 level: "Script",
  									 education: {
     												degree: "BS IT Network & Cybersecurity",
 													uni: "MMDC"
                                                 },
-									 interests: ["CTF", "Web Pentest", "Creative Coding"],
+									 interests: ["CTF", "Web Pentest", "P5.js"],
                                      currentlyLearning: ["Web Application Pentesting", "Python"]
 								};
 ```
 
 <details>
-<summary><strong>(★^O^★)~~[CLICK ME]~~></strong></summary>
+<summary><strong>View more</strong></summary>
   
 <img src="https://tryhackme-badges.s3.amazonaws.com/0as.png" alt="TryHackMe Badge" width="30%"/>
 <img src="https://www.codewars.com/users/0asisCat/badges/large" alt="Codewars Badge"/>
 
-```
-	(                                                                  
-	)\ )   )                  (    (       *   )               (       
-	(()/(( /(     (  (         )\ ) )\ )  ` )  /(    (  ( (  (  )\  (   
- 	/(_))\()) (  )\))(     ( (()/((()/(   ( )(_)|   )\))()\))(((_)))\  
-	(_))((_)\  )\((_)()\    )\ /(_))/(_)) (_(_()))\ ((_))((_))\ _ /((_) 
-	/ __| |(_)((_)(()((_)  ((_|_) _(_) _| |_   _((_) (()(_|()(_) (_))   
-	\__ \ ' \/ _ \ V  V / / _ \|  _||  _|   | |/ _ \/ _` / _` || / -_)  
-	|___/_||_\___/\_/\_/  \___/|_|  |_|     |_|\___/\__, \__, ||_\___|  
-   	                                                |___/|___/        
-```
 </details>
